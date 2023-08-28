@@ -3,7 +3,7 @@ window.onload = function() {
     if (path === '/') {
         path = '/index';
     }
-    var githubUrl = 'https://raw.githubusercontent.com/fjcloud/ai-blog/main' + path + '.md';
+    var githubUrl = 'https://raw.githubusercontent.com/fjcloud/blog/main' + path + '.md';
     fetch(githubUrl)
         .then(response => response.text())
         .then(text => {
