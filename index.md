@@ -1,5 +1,7 @@
-# My blog
+# fjcloud blog
+
+## About me
 
 ## Posts
 
-- [Hello World](posts/helloworld.md)
+- 25/08/23 [Hello World](posts/helloworld.md)
