@@ -1,5 +1,0 @@
-remote_theme: jekyll/minima@593a05a
-plugins:
-  - jekyll-remote-theme
-minima:
-  skin: dark
