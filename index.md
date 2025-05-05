@@ -1,5 +1,3 @@
-# fjcloud blog
-
 ## About me
 
 ## Posts
